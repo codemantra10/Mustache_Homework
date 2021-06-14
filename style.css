@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: 'Stint Ultra Condensed', cursive;
+    background:linear-gradient(to right, red ,orange, yellow,lightgreen,lightblue,purple,indigo,violet);
+    }
+    body{
+    background-image: url("mustache_background.jpg");
+    }
+    #s{
+    background:linear-gradient(to right,red,yellow,lightblue,indigo);;
+    color: black;
+    font-size: 18px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 675;
+    margin-top: 500;
+    
+    }
+    canvas{
+    border-width: 5px;
+    border-color: black;
+    border-style: dotted;
+    }
