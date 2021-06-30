@@ -1,7 +1,7 @@
 noseX="";
 noseY="";
 function preload(){
-
+loadImage("https://i.postimg.cc/3x3QzSGq/m.png");
 }
 function setup(){
 canvas=createCanvas(400,400);
